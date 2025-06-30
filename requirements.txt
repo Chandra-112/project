@@ -1,14 +1,15 @@
 setuptools>=67
 wheel
 gunicorn
+Django==3.2.25
 mysqlclient
+
 asgiref==3.4.1
 cffi==1.15.1
 colorama==0.4.5
 crayons==0.3.0
 cryptography==40.0.2
 cryptosteganography==0.8.3
-Django==3.2.25
 exitstatus==1.4.0
 joblib==1.1.1
 numpy==1.19.5
