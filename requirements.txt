@@ -1,5 +1,6 @@
 setuptools>=42
 wheel
+gunicorn
 asgiref==3.4.1
 cffi==1.15.1
 colorama==0.4.5
