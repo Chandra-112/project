@@ -3,7 +3,7 @@ wheel
 gunicorn
 Django==2.1.7
 mysqlclient
-asgiref==3.4.1
+asgiref==2.3.2
 cffi==1.15.1
 colorama==0.4.5
 crayons==0.3.0
