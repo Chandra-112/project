@@ -1,6 +1,8 @@
-setuptools>=42
+setuptools>=67
 wheel
 gunicorn
+Django>=3.2,<4.0
+mysqlclient
 asgiref==3.4.1
 cffi==1.15.1
 colorama==0.4.5
